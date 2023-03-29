@@ -27,7 +27,7 @@ button{
     font-size: 15px;
 }
 header{
-    background:no-repeat center/cover url(assets/mengo.jpg);
+    background:no-repeat center/cover url(assets/estadio.jpg);
     height: calc(100vh - 100px);
 }
 header nav {
