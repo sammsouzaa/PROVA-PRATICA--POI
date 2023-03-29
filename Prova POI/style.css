@@ -6,7 +6,7 @@
 body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
-    background-color:#BDCDD6;
+    background-color:#E8F9FD;
 }
 ul {
     list-style: none;
@@ -27,7 +27,7 @@ button{
     font-size: 15px;
 }
 header{
-    background:no-repeat center/cover url(assets/back5.jpg);
+    background:no-repeat center/cover url(assets/mengo.jpg);
     height: calc(100vh - 100px);
 }
 header nav {
@@ -40,11 +40,13 @@ header nav ul {
 }
 header nav ul li{
     margin: 0 15px;
+    color: white;
 }
 .header-content {
     max-width: 400px;
     margin: 150px auto;
     text-align: center;
+    color: white;
 }
 
 .header-content h1{
@@ -57,7 +59,7 @@ header nav ul li{
     font-size: 1.2rem;
 }
 .jogadores {
-    background: #990000 ;
+    background: #ECF2FF ;
     padding: 15px;
 }
 .jogadores .jogadores-cards{
@@ -77,7 +79,7 @@ header nav ul li{
 .jogadores .card{
     width: 250px;
     height: 450px;
-    background: #DDF7E3;
+    background: #E8E8E8;
     margin: 25px;
     position: relative;
     border-radius: 24px ;
@@ -129,7 +131,7 @@ header nav ul li{
     position: absolute;
     left: 0;
     top: 160px;
-    background: #1d61dd;
+    background: red;
     border-radius: 0 8px 8px;
     padding: 5px 10px;
 }
@@ -141,7 +143,7 @@ header nav ul li{
 }
 .servicos{
     padding: 15;
-    background: white;
+
 }
 .servicos .servicos-tittle{
     text-align: center;
@@ -190,7 +192,7 @@ header nav ul li{
 }
 .contatos {
     padding: 60px;
-    background:#990000;
+    background:#ECF2FF;
     position: relative;
     text-align: right;
 }
